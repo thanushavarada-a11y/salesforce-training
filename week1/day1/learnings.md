@@ -1,1 +1,19 @@
-
+### Key Learnings
+- Salesforce is a cloud-based CRM platform.
+- CRM helps companies manage customer interactions and business processes.
+- Customer 360 provides a unified view of customers.
+- Salesforce improves communication between teams.
+- Automation reduces repetitive manual tasks.
+- Businesses use Salesforce to increase productivity and customer satisfaction.
+- Salesforce helps businesses manage customer data efficiently.
+- Companies use Salesforce to automate workflows and improve productivity.
+- Objects in Salesforce are similar to database tables.
+- Records are rows inside objects.
+- Fields store specific information inside records.
+- Salesforce applications are built using objects, records, fields, workflows, and automation tools.
+- Learned about standard Salesforce objects such as Lead, Contact, Account, and Opportunity.
+- Understood the difference between Salesforce Admin and Salesforce Developer roles.
+- Learned how businesses use Salesforce in banking, healthcare, education, and e-commerce sectors.
+- Explored the Salesforce interface and basic navigation.
+- Understood how Salesforce stores and organizes business data.
+- Learned the importance of Trailhead for Salesforce learning and practice.
